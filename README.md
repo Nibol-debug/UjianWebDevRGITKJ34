@@ -63,3 +63,6 @@ Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untu
 ---
 *Dibuat dengan ❤️ oleh TKJ 34*
 
+---
+## 📄 License
+This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
