@@ -1,58 +1,73 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🚀 Ujian Web Development - TKJ 34
+### Program Keahlian Teknik Komputer dan Jaringan
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+---
 
-## About Laravel
+## 📝 Deskripsi Project
+Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untuk angkatan 34. Aplikasi ini mengimplementasikan konsep MVC (Model-View-Controller) menggunakan Laravel dengan fokus pada efisiensi database dan user experience.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## ✨ Fitur Utama
+- 🔐 **Secure Authentication**: Sistem login dan registrasi terproteksi.
+- 📂 **CRUD Operations**: Pengelolaan data secara lengkap (Create, Read, Update, Delete).
+- 📱 **Responsive Design**: Tampilan yang menyesuaikan di HP maupun Laptop.
+- ⚡ **Optimized Routing**: Navigasi antar halaman yang cepat dan clean.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 🛠️ Instalasi & Penggunaan
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+1. **Clone & Install**
+   ```bash
+   git clone [https://github.com/Nibol-debug/UjianWebDevRGITKJ34.git](https://github.com/Nibol-debug/UjianWebDevRGITKJ34.git)
+   cd UjianWebDevRGITKJ34
+   composer install
+   ```
 
-## Learning Laravel
+2. **Environment Setup**
+   ```bash
+   cp .env.example .env
+   php artisan key:generate
+   ```
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+3. **Database Configuration**
+   - Buat database baru di MySQL.
+   - Sesuaikan `DB_DATABASE`, `DB_USERNAME`, dan `DB_PASSWORD` di file `.env`.
+   - Jalankan migrasi:
+   ```bash
+   php artisan migrate --seed
+   ```
 
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+4. **Run Server**
+   ```bash
+   php artisan serve
+   ```
 
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
+---
 
-## Agentic Development
+## 👨‍💻 Identitas Pengembang
+| Detail | Keterangan |
+| :--- | :--- |
+| **Nama** | Gibran |
+| **Kampus** | Rumah Gemilang Indonesia (RGI) |
+| **Jurusan** | Teknik Komputer & Jaringan (TKJ) |
+| **Angkatan** | 34 |
+| **Mata Pelajaran** | Ujian Akhir Web Dev |
 
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+---
 
-```bash
-composer require laravel/boost --dev
+## 🤝 Socials & Contact
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nibol-debug)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gbrnmewing)
 
-php artisan boost:install
+---
+*Dibuat dengan ❤️ oleh TKJ 34*
 ```
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+### Apa yang baru di versi ini?
+1.  **Badges:** Ada logo Laravel, MySQL, dan Bootstrap di bagian atas biar terlihat seperti repo profesional.
+2.  **Tabel Identitas:** Data diri kamu dibuat pakai tabel supaya penguji/guru lebih enak bacanya.
+3.  **Grup Fitur:** Pakai emoji supaya poin-poin fitur tidak membosankan.
+4.  **Note:** Saya tambahkan badge GitHub juga di bagian bawah.
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Tinggal kamu *paste* di `README.md` kamu, lalu `git add .`, `git commit -m "update readme keren"`, dan `git push` lagi! Sukses ujiannya, Brann! 🚀
