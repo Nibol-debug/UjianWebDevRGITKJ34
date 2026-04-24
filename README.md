@@ -61,8 +61,9 @@ Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untu
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gbrnmewing)
 
 ---
-*Dibuat dengan ❤️ oleh TKJ 34*
-
----
 ## 📄 License
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+---
+
+*Dibuat dengan ❤️ oleh TKJ 34*
