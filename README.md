@@ -62,12 +62,4 @@ Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untu
 
 ---
 *Dibuat dengan ❤️ oleh TKJ 34*
-```
 
-### Apa yang baru di versi ini?
-1.  **Badges:** Ada logo Laravel, MySQL, dan Bootstrap di bagian atas biar terlihat seperti repo profesional.
-2.  **Tabel Identitas:** Data diri kamu dibuat pakai tabel supaya penguji/guru lebih enak bacanya.
-3.  **Grup Fitur:** Pakai emoji supaya poin-poin fitur tidak membosankan.
-4.  **Note:** Saya tambahkan badge GitHub juga di bagian bawah.
-
-Tinggal kamu *paste* di `README.md` kamu, lalu `git add .`, `git commit -m "update readme keren"`, dan `git push` lagi! Sukses ujiannya, Brann! 🚀
