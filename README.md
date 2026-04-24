@@ -19,7 +19,7 @@ Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untu
 
 1. **Clone & Install**
    ```bash
-   git clone [https://github.com/Nibol-debug/UjianWebDevRGITKJ34.git](https://github.com/Nibol-debug/UjianWebDevRGITKJ34.git)
+   git clone https://github.com/Nibol-debug/UjianWebDevRGITKJ34.git
    cd UjianWebDevRGITKJ34
    composer install
    ```
