@@ -22,6 +22,7 @@ Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untu
    git clone https://github.com/Nibol-debug/UjianWebDevRGITKJ34.git
    cd UjianWebDevRGITKJ34
    composer install
+   npm install axios
    ```
 
 2. **Environment Setup**
@@ -42,6 +43,11 @@ Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untu
    ```bash
    php artisan serve
    ```
+5. **Run CSS & JS**
+   ```bash
+   npm run dev
+   ```
+
 
 ---
 
