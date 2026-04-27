@@ -59,6 +59,7 @@ Project ini dikembangkan sebagai syarat kelulusan modul **Web Development** untu
 | **Jurusan** | Teknik Komputer & Jaringan (TKJ) |
 | **Angkatan** | 34 |
 | **Mata Pelajaran** | Ujian Akhir Web Dev |
+| **Instruktur** | Pak Muhidin |
 
 ---
 
